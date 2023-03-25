@@ -4,6 +4,7 @@ com\portfolio\demo\Security\Service\UserDetailsImpl.class
 com\portfolio\demo\Entity\Skill.class
 com\portfolio\demo\Security\Entity\UsuarioPrincipal.class
 com\portfolio\demo\Entity\Idioma.class
+com\portfolio\demo\WebConfig.class
 com\portfolio\demo\Service\SPersona.class
 com\portfolio\demo\Controller\CServicio.class
 com\portfolio\demo\Dto\dtoExperiencia.class
