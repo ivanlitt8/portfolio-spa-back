@@ -1,10 +1,6 @@
 
 package com.portfolio.demo.Security.Controller;
 
-/**
- *
- * @author ivanl
- */
 public class Mensaje {
     private String mensaje ;
 
