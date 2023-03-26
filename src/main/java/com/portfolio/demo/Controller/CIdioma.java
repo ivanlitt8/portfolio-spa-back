@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("idiomas")
+@RequestMapping("/idiomas")
 @CrossOrigin(origins = "https://portfolio-front-560ce.web.app")
 public class CIdioma {
     

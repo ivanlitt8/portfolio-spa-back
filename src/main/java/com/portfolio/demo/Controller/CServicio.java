@@ -24,7 +24,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("services")
+@RequestMapping("/services")
 @CrossOrigin(origins = "https://portfolio-front-560ce.web.app")
 public class CServicio {
     
