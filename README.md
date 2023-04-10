@@ -11,6 +11,12 @@ La aplicación de Portfolio web está construida utilizando las siguientes tecno
 * JPASecurity: marco de seguridad utilizado para autenticación y autorización de usuarios.
 * Render y Clever Cloud: plataformas de hosting utilizadas para el despliegue de la aplicación.
 
+## Capturas
+
+![image](https://user-images.githubusercontent.com/70293887/230805501-2ee6df18-405a-4aa9-a0a7-2f3f8be2d6f2.png)
+![image](https://user-images.githubusercontent.com/70293887/230805545-7e0b21b2-da07-43d6-8815-8ddbbe6dda5a.png)
+![image](https://user-images.githubusercontent.com/70293887/230805580-1051e417-88d6-4876-bb3d-387ff26d971f.png)
+
 ## Enlaces
 
 - [Repositorio del frontend](https://github.com/ivanlitt8/portfolio-spa-front)
